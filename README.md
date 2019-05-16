@@ -1,11 +1,12 @@
 # Volunteer-Match-API-Salesforce
 ## VolunteerMatch API Integration in Salesforce
 
+
 1. Add VolunteerMatch API Credentials in Custom Metadata
-⋅⋅⋅* Go to Quick Find/Search..
-⋅⋅⋅* Type Custom Metadata and click on Custom Metadata Types..
-⋅⋅⋅* Click on "Manage Records" for "Volunteer Match Credential"..
-⋅⋅⋅* For Stage Click New, enter following values and save..
+	1. Go to Quick Find/Search.
+	2. Type Custom Metadata and click on Custom Metadata Types.
+	3. Click on "Manage Records" for "Volunteer Match Credential".
+	4. For Stage Click New, enter following values and save.
 
 | Field Name | Values |
 | --- | --- |
@@ -15,7 +16,7 @@
 | Username | Username for Volunteermatch |
 | Key | Enter Key for Volunteermatch |
 
-⋅⋅⋅* For Production Click New, enter following values and save..
+	4. For Production Click New, enter following values and save.
 
 | Field Name | Values |
 | --- | --- |
