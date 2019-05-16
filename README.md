@@ -16,13 +16,13 @@
 | Username | Username for Volunteermatch |
 | Key | Enter Key for Volunteermatch |
 
-	4. For Production Click New, enter following values and save.
+	5. For Production Click New, enter following values and save.
 
 | Field Name | Values |
 | --- | --- |
 | Label | VolunteerMatchAPI 
 | Name | VolunteerMatchAPI |
-| URL | https://www.stage.volunteermatch.org |
+| URL | https://www.volunteermatch.org |
 | Username | Username for Volunteermatch |
 | Key | Enter Key for Volunteermatch |
 
