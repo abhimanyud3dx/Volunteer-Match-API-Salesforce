@@ -6,6 +6,7 @@
 	b. Type Custom Metadata and click on Custom Metadata Types
 	c. Click on "Manage Records" for "Volunteer Match Credential".
 	d. For Stage Click New, enter following values and save.
+
 | Field Name | Values |
 | --- | --- |
 | Label | VolunteerMatchAPIStage |
@@ -13,7 +14,9 @@
 | URL | https://www.stage.volunteermatch.org 
 | Username | Username for Volunteermatch |
 | Key | Enter Key for Volunteermatch |
+
 	e. For Production Click New, enter following values and save.
+
 | Field Name | Values |
 | --- | --- |
 | Label | VolunteerMatchAPI 
@@ -21,6 +24,7 @@
 | URL | https://www.stage.volunteermatch.org |
 | Username | Username for Volunteermatch |
 | Key | Enter Key for Volunteermatch |
+
 			
 To Test try running the following command in Anonyumous Window in Developer Console
 ```
