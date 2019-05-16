@@ -27,7 +27,7 @@
 | Key | Enter Key for Volunteermatch |
 
 			
-To Test try running the following command in Anonyumous Window in Developer Console
+To Test, try running the following command in Execute Anonymous Window in Developer Console
 ```
 System.debug(
 	new SearchOpportunitiesExample().searchOpportunity('{ "location": "san francisco, ca",'+
