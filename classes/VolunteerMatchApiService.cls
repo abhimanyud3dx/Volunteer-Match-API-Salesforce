@@ -23,7 +23,7 @@ public with sharing class VolunteerMatchApiService {
 
     public VolunteerMatchApiService() {
         
-        String devCredName = runningInASandbox() ? 'VolunteerMatchAPIStage' : 'VolunteerMatchAPIProd';
+        String devCredName = runningInASandbox() ? 'VolunteerMatchAPIStage' : 'VolunteerMatchAPI';
 
         //get URL, UserName and password from Custom Metadata
         for(Volunteer_Match_Credential__mdt cred :[ SELECT Id,DeveloperName,MasterLabel,URL__c,Username__c,Key__c
