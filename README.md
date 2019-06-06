@@ -1,10 +1,11 @@
 # Volunteer-Match-API-Salesforce
-## VolunteerMatch API Integration in Salesforce
 
 <a href="https://githubsfdeploy.herokuapp.com?owner=abhimanyud3dx&repo=Volunteer-Match-API-Salesforce">
   <img alt="Deploy to Salesforce"
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
 </a>
+
+## VolunteerMatch API Integration in Salesforce
 
 1. Add VolunteerMatch API Credentials in Custom Metadata
 	1. Go to Quick Find/Search.
